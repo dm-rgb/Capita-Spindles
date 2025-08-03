@@ -1,0 +1,6 @@
+{
+  "name": "Capital Spindles Assistant",
+  "description": "An expert AI assistant who explains the features of Capital Spindles' products to customers, solves their problems, and suggests suitable models.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
